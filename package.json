@@ -5,7 +5,11 @@
   "main": "index.js",
   "author": "sky <https://github.com/umbrella22>",
   "license": "MIT",
-  "keywords": ["webpack", "autoupload","plugin"],
+  "keywords": [
+    "webpack",
+    "autoupload",
+    "plugin"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/umbrella22/webpack-autoupload-plugin.git"
