@@ -1,0 +1,24 @@
+{
+  "name": "webpack-autoupload-plugin",
+  "version": "1.0.0",
+  "description": "After the packaging is complete, the packaged file is published to the server",
+  "main": "index.js",
+  "author": "sky <https://github.com/umbrella22>",
+  "license": "MIT",
+  "keywords": ["webpack", "autoupload","plugin"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umbrella22/webpack-autoupload-plugin.git"
+  },
+  "peerDependencies": {
+    "chalk": "^4.0.0",
+    "scp2": "^0.5.0"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "scp2": "^0.5.0"
+  }
+}
